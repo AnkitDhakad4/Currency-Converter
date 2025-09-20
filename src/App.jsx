@@ -108,7 +108,7 @@ function App() {
                
             </div>
             <footer>
-            <span className='text-white text-2xl bg-gray-700 px-1 '>Copyright @Ankit Dhakad Contact us 9602018610</span>
+            
         </footer>
         </div> 
         
